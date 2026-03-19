@@ -39,3 +39,14 @@ Python, HTML, JS
 
 Repository:
 https://github.com/adamhod/CST8002_PracticalProject_010_AdamHoddinott
+
+---
+
+###Scryfall Catalog
+webpage that allows users to search the scryfall database for cards specific to conditions they enter
+
+Technology:
+React, Docker (deployment)
+
+Repository:
+https://github.com/adamhod/scryfall-catalog.git
