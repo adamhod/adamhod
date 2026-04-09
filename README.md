@@ -42,7 +42,7 @@ https://github.com/adamhod/CST8002_PracticalProject_010_AdamHoddinott
 
 ---
 
-###Scryfall Catalog
+### Scryfall Catalog
 webpage that allows users to search the scryfall database for cards specific to conditions they enter
 
 Technology:
@@ -50,3 +50,14 @@ React, Docker (deployment)
 
 Repository:
 https://github.com/adamhod/scryfall-catalog.git
+
+---
+
+### wp (WorkoutPro created using React Native)
+my workout tracking and creation application built off of LogLift (which was created using swift)
+
+Technology:
+React Native, Supabase
+
+Repository (is private):
+https://github.com/adamhod/wp.git
