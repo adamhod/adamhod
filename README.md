@@ -52,12 +52,3 @@ Repository:
 https://github.com/adamhod/scryfall-catalog.git
 
 ---
-
-### wp (WorkoutPro created using React Native)
-my workout tracking and creation application built off of LogLift (which was created using swift)
-
-Technology:
-React Native, Supabase
-
-Repository (is private):
-https://github.com/adamhod/wp.git
