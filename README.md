@@ -15,20 +15,6 @@ https://github.com/adamhod/liftlog
 
 ---
 
-### Cookful
-Flutter-based recipe management mobile application of the website.
-
-Responsibilities:
-Teamlead, ScrumMaster, Design Lead (MVC)
-
-Technologies:
-Flutter, Dart, PostgreSQL
-
-Repository:
-https://github.com/algonquin-college-sat/cst8319-25s-320-team-6-mobile
-
----
-
 ### CST8002_PracticalProject_010_AdamHoddinott
 Web application that takes a dataset and manipulates its content to produce reports.
 
